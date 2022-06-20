@@ -1,0 +1,11 @@
+
+P
+java:S6213":Rename this variable to not match a restricted identifier.(äêí•
+W
+java:S3457'"AFormat specifiers should be used instead of string concatenation.(ù°ÒŠ
+n
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(İî¥J
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(õŒ¢úÿÿÿÿ
+C
+java:S1604!"(Make this anonymous inner class a lambda(¤æò¹úÿÿÿÿ

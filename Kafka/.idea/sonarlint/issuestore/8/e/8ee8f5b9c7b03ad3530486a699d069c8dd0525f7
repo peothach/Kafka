@@ -1,0 +1,15 @@
+
+P
+java:S62130":Rename this variable to not match a restricted identifier.(Ø‡Éê
+\
+java:S34572"AFormat specifiers should be used instead of string concatenation.(è¿çşÿÿÿÿ
+W
+java:S34573"AFormat specifiers should be used instead of string concatenation.(úÚ€œ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûåâ
+w
+java:S26292"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(è¿çşÿÿÿÿ
+r
+java:S26293"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(úÚ€œ
+h
+java:S2095"KUse try-with-resources or close this "KafkaConsumer" in a "finally" clause.(ûåâ8—€°ü—0

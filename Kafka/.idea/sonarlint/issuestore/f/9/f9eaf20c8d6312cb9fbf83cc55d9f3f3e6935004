@@ -1,0 +1,17 @@
+
+P
+java:S6213"":Rename this variable to not match a restricted identifier.(äêí•
+^
+java:S3457%"AFormat specifiers should be used instead of string concatenation.(€¢Ò«8Ž€°ù—0
+W
+java:S34578"AFormat specifiers should be used instead of string concatenation.(ù°ÒŠ
+n
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ýî¥J
+o
+java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(´©Þž
+C
+java:S16042"(Make this anonymous inner class a lambda(¤æò¹úÿÿÿÿ
+T
+java:S2629%"7Use the built-in formatting to construct this argument.(€¢Ò«8Ÿ€°ù—0
+g
+java:S2095"KUse try-with-resources or close this "KafkaProducer" in a "finally" clause.(Ýî¥J8¯€°ù—0
